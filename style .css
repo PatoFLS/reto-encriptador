@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #E5E5E5;
+}
+
+.container{
+    position: relative;
+    height: 768px;
+    width: 1380px;
+    margin: auto;
+    padding: 5px;
+    background-color: #F3F5FC;
+}
+
+.logo{
+    position: relative;
+    width: 40%;
+    float: left;
+    
+}
+.logoimg{
+    position: relative;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    float: inherit;
+
+}
+.left{
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+   
+}
+#advertisment{
+    color: #495057;
+    opacity: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    margin-left: 5%;
+}
+#btn-encript{
+    border-radius: 34px;
+    padding: 24px;
+    width: 30%;
+    height: 50%;
+    margin-left: 18%;
+    background: #0A3871;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+#btn-desencript{
+    border-radius: 34px;
+    padding: 24px;
+    width: 30%;
+    height: 50%;
+    margin-left: 5%;
+    background: #D8DFE8;
+    color: #0A3871;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.right{
+    border-radius: 34px;
+    float: right;
+    height: auto;
+    background-color: white;
+    width: 30%;
+}
+#imgmunieco{
+    width: 80%;
+    height: auto;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+#texto{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    color: #495057;
+    text-align: center;
+    justify-content: space-between;
+}
+#texto2{
+    margin-left: 10.8%;
+    color: #0A3871;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal ;
+    background:  white;
+    width: 80%;
+    height: 60%;
+    resize: none;
+    text-align: center;
+    
+}
+#copy{
+    margin-left: 33%;
+    margin-top: 80%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    border-radius: 24px;
+    background: #D8DFE8;
+    display: none;
+}
+
+.left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+   
+}
+.textinput{
+    float: left;
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    color: #0A3871;
+    font-size: 32px;
+    border: none;
+    outline: none;
+    font-family:   Arial, sans-serif;
+    font-style: normal ;
+    background:  #F3F5FC;
+    justify-content: space-between;
+    
+
+}
